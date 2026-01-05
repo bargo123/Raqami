@@ -1,0 +1,674 @@
+{
+  "@@locale": "en",
+  "appName": "Raqami",
+  "@appName": {
+    "description": "The application name"
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+  "welcomeBack": "Welcome back",
+  "@welcomeBack": {
+    "description": "Welcome back message on login screen"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "logIn": "Log in",
+  "@logIn": {
+    "description": "Log in button text"
+  },
+  "logInToContinueShopping": "Log in to continue shopping",
+  "@logInToContinueShopping": {
+    "description": "Subtitle on login screen"
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button text"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email label"
+  },
+  "enterYourEmail": "Enter your email",
+  "@enterYourEmail": {
+    "description": "Email field hint text"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password label"
+  },
+  "enterYourPassword": "Enter your password",
+  "@enterYourPassword": {
+    "description": "Password field hint text"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password label"
+  },
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone number label"
+  },
+  "enterPhoneNumber": "Enter phone number",
+  "@enterPhoneNumber": {
+    "description": "Phone number field hint text"
+  },
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full name label"
+  },
+  "johnDoe": "John Doe",
+  "@johnDoe": {
+    "description": "Full name field hint text"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Save button text"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "edit": "Edit",
+  "@edit": {
+    "description": "Edit button text"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button text"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile label"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home label"
+  },
+  "categories": "Categories",
+  "@categories": {
+    "description": "Categories label"
+  },
+  "wishlist": "Wishlist",
+  "@wishlist": {
+    "description": "Wishlist label"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings label"
+  },
+  "signOut": "Sign Out",
+  "@signOut": {
+    "description": "Sign out button text"
+  },
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": "Edit profile label"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading message"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error message"
+  },
+  "success": "Success",
+  "@success": {
+    "description": "Success message"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "dontHaveAnAccount": "Don't have an account?",
+  "@dontHaveAnAccount": {
+    "description": "Text on login screen"
+  },
+  "createAccount": "Create Account",
+  "@createAccount": {
+    "description": "Create account button/link text"
+  },
+  "createYourRaqamiAccount": "Create your Raqami account",
+  "@createYourRaqamiAccount": {
+    "description": "Heading on create account screen"
+  },
+  "joinRaqamiAndFindYourNumber": "Join Raqami and find your number",
+  "@joinRaqamiAndFindYourNumber": {
+    "description": "Subtitle on create account screen"
+  },
+  "iAgreeToThe": "I agree to the ",
+  "@iAgreeToThe": {
+    "description": "Terms agreement text part 1"
+  },
+  "termsAndPrivacyPolicy": "Terms & Privacy Policy",
+  "@termsAndPrivacyPolicy": {
+    "description": "Terms agreement link text"
+  },
+  "alreadyHaveAnAccount": "Already have an account?",
+  "@alreadyHaveAnAccount": {
+    "description": "Text on create account screen"
+  },
+  "verifyYourEmail": "Verify your email",
+  "@verifyYourEmail": {
+    "description": "Heading on email verification screen"
+  },
+  "weSentAVerificationEmailTo": "We sent a verification email to {email}. Please check your email and click the verification link, then click Verify below.",
+  "@weSentAVerificationEmailTo": {
+    "description": "Email verification message",
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "verify": "Verify",
+  "@verify": {
+    "description": "Verify button text"
+  },
+  "accountCreatedSuccessfullyPleaseLogIn": "Account created successfully! Please log in.",
+  "@accountCreatedSuccessfullyPleaseLogIn": {
+    "description": "Success message after account creation"
+  },
+  "profileUpdatedSuccessfully": "Profile updated successfully",
+  "@profileUpdatedSuccessfully": {
+    "description": "Success message after profile update"
+  },
+  "account": "ACCOUNT",
+  "@account": {
+    "description": "Account section header"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications menu item"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language menu item"
+  },
+  "support": "SUPPORT",
+  "@support": {
+    "description": "Support section header"
+  },
+  "contactUs": "Contact Us",
+  "@contactUs": {
+    "description": "Contact Us menu item"
+  },
+  "aboutUs": "About Us",
+  "@aboutUs": {
+    "description": "About Us menu item"
+  },
+  "aboutUsDescription": "Your trusted platform for buying and selling phone numbers and car plates in the UAE.",
+  "@aboutUsDescription": {
+    "description": "About Us screen description"
+  },
+  "aboutRaqami": "About Raqami",
+  "@aboutRaqami": {
+    "description": "About Raqami section title"
+  },
+  "aboutRaqamiContent": "Raqami is a dedicated marketplace platform designed to connect buyers and sellers of premium phone numbers and car license plates in the United Arab Emirates. We provide a secure, user-friendly environment for transactions while ensuring authenticity and quality.",
+  "@aboutRaqamiContent": {
+    "description": "About Raqami section content"
+  },
+  "features": "Features",
+  "@features": {
+    "description": "Features section title"
+  },
+  "featuresContent": "• Browse premium phone numbers and car plates\n• Create and manage your listings\n• Save your favorite items to wishlist\n• Direct communication with sellers\n• Secure transactions",
+  "@featuresContent": {
+    "description": "Features section content"
+  },
+  "aboutUsContactTitle": "Contact Us",
+  "@aboutUsContactTitle": {
+    "description": "Contact Us section title in About Us screen"
+  },
+  "aboutUsContactContent": "If you have any questions, suggestions, or need support, please feel free to reach out to us through the Contact Us section in your profile.",
+  "@aboutUsContactContent": {
+    "description": "Contact Us section content in About Us screen"
+  },
+  "version": "Version {version}",
+  "@version": {
+    "description": "Version text with version number",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "copyright": "© 2026 Raqami. All rights reserved.",
+  "@copyright": {
+    "description": "Copyright text"
+  },
+  "privacyPolicy": "Privacy Policy",
+  "@privacyPolicy": {
+    "description": "Privacy Policy menu item"
+  },
+  "raqamiVersion": "RAQAMI · Version {version}",
+  "@raqamiVersion": {
+    "description": "Version text with version number",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "following": "Following",
+  "@following": {
+    "description": "Following label"
+  },
+  "fullNameIsRequired": "Full name is required",
+  "@fullNameIsRequired": {
+    "description": "Full name validation error"
+  },
+  "phoneNumberIsRequired": "Phone number is required",
+  "@phoneNumberIsRequired": {
+    "description": "Phone number validation error"
+  },
+  "nameIsRequired": "Name is required",
+  "@nameIsRequired": {
+    "description": "Name validation error"
+  },
+  "emailIsRequired": "Email is required",
+  "@emailIsRequired": {
+    "description": "Email validation error"
+  },
+  "pleaseEnterAValidEmailAddress": "Please enter a valid email address",
+  "@pleaseEnterAValidEmailAddress": {
+    "description": "Email format validation error"
+  },
+  "passwordIsRequired": "Password is required",
+  "@passwordIsRequired": {
+    "description": "Password validation error"
+  },
+  "passwordMustBeAtLeast6Characters": "Password must be at least 6 characters",
+  "@passwordMustBeAtLeast6Characters": {
+    "description": "Password length validation error"
+  },
+  "pleaseAcceptTheTermsAndPrivacyPolicy": "Please accept the Terms & Privacy Policy",
+  "@pleaseAcceptTheTermsAndPrivacyPolicy": {
+    "description": "Terms acceptance validation error"
+  },
+  "anAccountWithThisEmailAlreadyExists": "An account with this email already exists",
+  "@anAccountWithThisEmailAlreadyExists": {
+    "description": "Email already in use error"
+  },
+  "invalidEmailAddress": "Invalid email address",
+  "@invalidEmailAddress": {
+    "description": "Invalid email error"
+  },
+  "passwordIsTooWeak": "Password is too weak",
+  "@passwordIsTooWeak": {
+    "description": "Weak password error"
+  },
+  "networkErrorPleaseCheckYourConnection": "Network error. Please check your connection",
+  "@networkErrorPleaseCheckYourConnection": {
+    "description": "Network error message"
+  },
+  "emailNotVerifiedPleaseCheckYourEmailAndClickTheVerificationLink": "Email not verified. Please check your email and click the verification link.",
+  "@emailNotVerifiedPleaseCheckYourEmailAndClickTheVerificationLink": {
+    "description": "Email not verified error"
+  },
+  "accountCreationFailedPleaseTryAgain": "Account creation failed. Please try again",
+  "@accountCreationFailedPleaseTryAgain": {
+    "description": "Account creation failed error"
+  },
+  "somethingUnexpectedHappenedPleaseTryAgain": "Something unexpected happened. Please try again.",
+  "@somethingUnexpectedHappenedPleaseTryAgain": {
+    "description": "Generic error message"
+  },
+  "noAccountFoundWithThisEmail": "No account found with this email",
+  "@noAccountFoundWithThisEmail": {
+    "description": "User not found error"
+  },
+  "incorrectPassword": "Incorrect password",
+  "@incorrectPassword": {
+    "description": "Wrong password error"
+  },
+  "thisAccountHasBeenDisabled": "This account has been disabled",
+  "@thisAccountHasBeenDisabled": {
+    "description": "Account disabled error"
+  },
+  "tooManyFailedAttemptsPleaseTryAgainLater": "Too many failed attempts. Please try again later",
+  "@tooManyFailedAttemptsPleaseTryAgainLater": {
+    "description": "Too many requests error"
+  },
+  "loginFailedPleaseTryAgain": "Login failed. Please try again",
+  "@loginFailedPleaseTryAgain": {
+    "description": "Login failed error"
+  },
+  "createPost": "Create Post",
+  "@createPost": {
+    "description": "Create post button and title"
+  },
+  "postType": "Post Type",
+  "@postType": {
+    "description": "Post type label"
+  },
+  "carPlate": "Car Plate",
+  "@carPlate": {
+    "description": "Car plate label"
+  },
+  "plateNumber": "Plate Number",
+  "@plateNumber": {
+    "description": "Plate number label"
+  },
+  "enterPlateNumber": "Enter plate number",
+  "@enterPlateNumber": {
+    "description": "Plate number hint"
+  },
+  "selectEmirate": "Select Emirate",
+  "@selectEmirate": {
+    "description": "Select emirate label"
+  },
+  "emirate": "Emirate",
+  "@emirate": {
+    "description": "Emirate label"
+  },
+  "price": "Price",
+  "@price": {
+    "description": "Price label"
+  },
+  "enterPrice": "Enter price",
+  "@enterPrice": {
+    "description": "Price hint"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Description label"
+  },
+  "enterDescription": "Enter description (optional)",
+  "@enterDescription": {
+    "description": "Description hint"
+  },
+  "postCreatedSuccessfully": "Post created successfully",
+  "@postCreatedSuccessfully": {
+    "description": "Post creation success message"
+  },
+  "postDeletedSuccessfully": "Post deleted successfully",
+  "@postDeletedSuccessfully": {
+    "description": "Success message after deleting a post"
+  },
+  "plateNumberIsRequired": "Plate number is required",
+  "@plateNumberIsRequired": {
+    "description": "Plate number validation error"
+  },
+  "invalidPlateFormat": "Invalid plate format. Please enter 1-5 digits",
+  "@invalidPlateFormat": {
+    "description": "Invalid plate format error"
+  },
+  "priceIsRequired": "Price is required",
+  "@priceIsRequired": {
+    "description": "Price validation error"
+  },
+  "invalidPrice": "Please enter a valid price",
+  "@invalidPrice": {
+    "description": "Invalid price error"
+  },
+  "emirateIsRequired": "Please select an emirate",
+  "@emirateIsRequired": {
+    "description": "Emirate selection error"
+  },
+  "postInformation": "Post Information",
+  "@postInformation": {
+    "description": "Post information screen title"
+  },
+  "contactPoster": "Contact Poster",
+  "@contactPoster": {
+    "description": "Contact poster section title"
+  },
+  "whatsApp": "WhatsApp",
+  "@whatsApp": {
+    "description": "WhatsApp button label"
+  },
+  "call": "Call",
+  "@call": {
+    "description": "Call button label"
+  },
+  "couldNotOpenWhatsApp": "Could not open WhatsApp",
+  "@couldNotOpenWhatsApp": {
+    "description": "WhatsApp error message"
+  },
+  "couldNotMakePhoneCall": "Could not make phone call",
+  "@couldNotMakePhoneCall": {
+    "description": "Phone call error message"
+  },
+  "priceHidden": "Price hidden",
+  "@priceHidden": {
+    "description": "Price hidden text"
+  },
+  "posted": "Posted",
+  "@posted": {
+    "description": "Posted label"
+  },
+  "sold": "SOLD",
+  "@sold": {
+    "description": "Sold label"
+  },
+  "today": "Today",
+  "@today": {
+    "description": "Today label"
+  },
+  "yesterday": "Yesterday",
+  "@yesterday": {
+    "description": "Yesterday label"
+  },
+  "daysAgo": "{count} days ago",
+  "@daysAgo": {
+    "description": "Days ago label",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editPost": "Edit Post",
+  "@editPost": {
+    "description": "Edit post screen title"
+  },
+  "plateCode": "Plate Code",
+  "@plateCode": {
+    "description": "Plate code label"
+  },
+  "markAsSold": "Mark as Sold",
+  "@markAsSold": {
+    "description": "Mark as sold label"
+  },
+  "saveChanges": "Save Changes",
+  "@saveChanges": {
+    "description": "Save changes button text"
+  },
+  "deletePost": "Delete Post",
+  "@deletePost": {
+    "description": "Delete post dialog title"
+  },
+  "areYouSureYouWantToDeleteThisPost": "Are you sure you want to delete this post? This action cannot be undone.",
+  "@areYouSureYouWantToDeleteThisPost": {
+    "description": "Delete post confirmation message"
+  },
+  "number": "Number",
+  "@number": {
+    "description": "Number label"
+  },
+  "code": "Code",
+  "@code": {
+    "description": "Code hint text"
+  },
+  "postNotFound": "Post not found",
+  "@postNotFound": {
+    "description": "Post not found error"
+  },
+  "noRouteDefinedFor": "No route defined for {route}",
+  "@noRouteDefinedFor": {
+    "description": "Route not found error",
+    "placeholders": {
+      "route": {
+        "type": "String"
+      }
+    }
+  },
+  "imageError": "Image Error",
+  "@imageError": {
+    "description": "Image loading error"
+  },
+  "pleaseSignInToViewYourWishlist": "Please sign in to view your wishlist",
+  "@pleaseSignInToViewYourWishlist": {
+    "description": "Wishlist sign in message"
+  },
+  "errorLoadingWishlist": "Error loading wishlist: {error}",
+  "@errorLoadingWishlist": {
+    "description": "Wishlist loading error",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button text"
+  },
+  "noLikedPostsYet": "No liked posts yet",
+  "@noLikedPostsYet": {
+    "description": "Empty wishlist message"
+  },
+  "myPosts": "My Posts",
+  "@myPosts": {
+    "description": "My posts screen title"
+  },
+  "pleaseLogInToViewYourPosts": "Please log in to view your posts",
+  "@pleaseLogInToViewYourPosts": {
+    "description": "My posts sign in message"
+  },
+  "errorLoadingPosts": "Error loading posts: {error}",
+  "@errorLoadingPosts": {
+    "description": "Posts loading error",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "noPostsYet": "No posts yet",
+  "@noPostsYet": {
+    "description": "Empty posts message"
+  },
+  "createYourFirstPostToSeeItHere": "Create your first post to see it here",
+  "@createYourFirstPostToSeeItHere": {
+    "description": "Empty posts hint"
+  },
+  "plateNumberRequired": "Plate number is required",
+  "@plateNumberRequired": {
+    "description": "Error message when plate number is empty"
+  },
+  "phoneNumberRequired": "Phone number is required",
+  "@phoneNumberRequired": {
+    "description": "Error message when phone number is empty"
+  },
+  "plateCodeRequired": "Plate code is required",
+  "@plateCodeRequired": {
+    "description": "Error message when plate code is empty"
+  },
+  "invalidPlateCode": "Invalid plate code",
+  "@invalidPlateCode": {
+    "description": "Error message when plate code is invalid"
+  },
+  "lineType": "Line Type",
+  "@lineType": {
+    "description": "Line type label"
+  },
+  "chooseLineType": "Choose line type",
+  "@chooseLineType": {
+    "description": "Line type dropdown hint"
+  },
+  "prepaid": "Prepaid",
+  "@prepaid": {
+    "description": "Prepaid line type"
+  },
+  "postpaid": "Postpaid",
+  "@postpaid": {
+    "description": "Postpaid line type"
+  },
+  "phoneCodeIsRequired": "Phone code is required",
+  "@phoneCodeIsRequired": {
+    "description": "Error message when phone code is empty"
+  },
+  "phoneNumberMustBe7Digits": "Phone number must be exactly 7 digits",
+  "@phoneNumberMustBe7Digits": {
+    "description": "Error message when phone number is not 7 digits"
+  },
+  "reportPost": "Report Post",
+  "@reportPost": {
+    "description": "Title for report post dialog"
+  },
+  "reportPostDescription": "Please select a reason for reporting this post",
+  "@reportPostDescription": {
+    "description": "Description text in report post dialog"
+  },
+  "additionalDetails": "Additional details (optional)",
+  "@additionalDetails": {
+    "description": "Placeholder for additional details text field"
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "Submit button text"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "reportSubmitted": "Report submitted successfully",
+  "@reportSubmitted": {
+    "description": "Success message after submitting report"
+  },
+  "contactUsDescription": "We'd love to hear from you! Send us an email and we'll respond as soon as possible.",
+  "@contactUsDescription": {
+    "description": "Description text in contact us screen"
+  },
+  "sendEmail": "Send Email",
+  "@sendEmail": {
+    "description": "Button text to send email"
+  },
+  "contactUsInfo": "We typically respond within 24-48 hours. For urgent matters, please include 'URGENT' in your subject line.",
+  "@contactUsInfo": {
+    "description": "Information text about response time"
+  },
+  "couldNotOpenEmail": "Could not open email app",
+  "@couldNotOpenEmail": {
+    "description": "Error message when email app cannot be opened"
+  },
+  "emailCopied": "Email copied",
+  "@emailCopied": {
+    "description": "Message when email is copied to clipboard"
+  },
+  "copy": "Copy",
+  "@copy": {
+    "description": "Copy button text"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search button text"
+  },
+  "reset": "Reset",
+  "@reset": {
+    "description": "Reset button text"
+  },
+  "provider": "Provider",
+  "@provider": {
+    "description": "Provider label in filter"
+  },
+  "digitCount": "Digit Count",
+  "@digitCount": {
+    "description": "Digit count label in filter"
+  },
+  "noPostsAvailable": "No posts available",
+  "@noPostsAvailable": {
+    "description": "Empty state message when there are no posts"
+  },
+  "noWishlistPosts": "You did not add any posts to wishlist",
+  "@noWishlistPosts": {
+    "description": "Empty state message when wishlist is empty"
+  }
+}

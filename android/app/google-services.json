@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530663103174",
+    "project_id": "raqami-dd7fd",
+    "storage_bucket": "raqami-dd7fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530663103174:android:aec0b86255e85b652015c7",
+        "android_client_info": {
+          "package_name": "com.app.raqami"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9Ty2Qopa7in5oImJKMYdUhXUWCDkDNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530663103174:android:4125910a356bf7632015c7",
+        "android_client_info": {
+          "package_name": "com.example.raqami"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9Ty2Qopa7in5oImJKMYdUhXUWCDkDNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
